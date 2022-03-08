@@ -1,6 +1,6 @@
 # Welcome to Open-horizon-services 👋
 <p align="center">
-<img align="center" src="/profile/Logo.png" height="30%" width="30%"/>
+<img align="center" src="/profile/Logo.png" height="50%" width="50%"/>
 </p>
 
 Open-horizon-services mission is created house edge micro-services that can be easily built, tested, and published to any open horizon management hub.
