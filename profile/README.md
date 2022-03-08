@@ -1,13 +1,13 @@
 # Welcome to Open-horizon-services 👋
 <p align="center">
-<img align="center" src="/profile/open-horizon-color.png" height="30%" width="30%"/>
+<img align="center" src="/profile/Logo.png" height="30%" width="30%"/>
 </p>
 
 Open-horizon-services mission is created house edge micro-services that can be easily built, tested, and published to any open horizon management hub.
 
 ## About us
 
-An LF Edge open-source project that provides remote and autonomous management of containerized applications and related models that are deployed to distributed edge computing nodes and devices.
+This is an LF Edge open-source project that provides remote and autonomous management of containerized applications and related models that are deployed to distributed edge computing nodes and devices.
 
 ## What we do
 
