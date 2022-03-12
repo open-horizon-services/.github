@@ -1,6 +1,6 @@
 # Welcome to Open-horizon-services 👋
 <p align="center">
-<img align="center" src="/profile/Logo.png" height="30%" width="30%"/>
+<img align="center" src="/profile/Logo.png" height="40%" width="40%"/>
 </p>
 
 # About Open Horizon Services
